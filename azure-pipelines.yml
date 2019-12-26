@@ -10,7 +10,7 @@ resources:
   repositories:
     - repository: MyRepo1
       type: github
-      endpoint: github_1
+      endpoint: github_2
       name: anukritigupta22/test11
 
 pool: default
