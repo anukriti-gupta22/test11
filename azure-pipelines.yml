@@ -11,7 +11,7 @@ resources:
     - repository: MyRepo1
       type: github
       endpoint: github_1
-      name: anukritigupta22/test11
+      name: anukritigupta22/test
 
 pool: default
 
